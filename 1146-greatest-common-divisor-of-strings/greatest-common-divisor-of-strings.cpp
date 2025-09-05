@@ -10,4 +10,9 @@ public:
     }
 };
 
-
+int main() {
+    Solution sol;
+    string str1 = "ABCABC", str2 = "ABC";
+    cout << sol.gcdOfStrings(str1, str2) << endl; 
+    return 0;
+}
