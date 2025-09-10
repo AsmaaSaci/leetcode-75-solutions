@@ -1,0 +1,23 @@
+# VSCode settings
+.vscode/
+
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Swap files and temporary files
+*.swp
+*.tmp
+*.log
+
+# Backup files
+*~
+*.bak
+
+# MacOS specific
+.DS_Store
